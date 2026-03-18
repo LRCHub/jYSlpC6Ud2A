@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "CASE 143",
+  "base_artist": "Stray Kids",
+  "createdAt": "2026-03-18T06:00:11.848262Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Case Closed",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/01_Case_Closed_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Case of the P.T.A.",
+      "artist": "Leaders of the New School",
+      "has_synced": true,
+      "path": "select/02_Case_of_the_P.T.A._Leaders_of_the_New_School.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Case of the P.T.A. (Leaders of the New School)",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/03_Case_of_the_P.T.A._(Leaders_of_the_New_School)_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cold Case",
+      "artist": "Jameson Rodgers",
+      "has_synced": false,
+      "path": "select/04_Cold_Case_Jameson_Rodgers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In Case You Didn't Know",
+      "artist": "Brett Young",
+      "has_synced": true,
+      "path": "select/05_In_Case_You_Didn't_Know_Brett_Young.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just In Case",
+      "artist": "Rodell Duff",
+      "has_synced": true,
+      "path": "select/06_Just_In_Case_Rodell_Duff.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just In Case",
+      "artist": "The Forester Sisters",
+      "has_synced": true,
+      "path": "select/07_Just_In_Case_The_Forester_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Case For Shame",
+      "artist": "Cold Specks feat. Moby",
+      "has_synced": false,
+      "path": "select/08_A_Case_For_Shame_Cold_Specks_feat._Moby.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Case For Shame (feat. Cold Specks)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/09_A_Case_For_Shame_(feat._Cold_Specks)_Moby.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Case for Shame (Spartaque dub)",
+      "artist": "Moby feat. Cold Specks",
+      "has_synced": false,
+      "path": "select/10_A_Case_for_Shame_(Spartaque_dub)_Moby_feat._Cold_Specks.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Just In Case",
+      "artist": "Micachu & The Shapes",
+      "has_synced": false,
+      "path": "select/11_Just_In_Case_Micachu_&_The_Shapes.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad Case of Love",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/12_Bad_Case_of_Love_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bad Case Of Love",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/13_Bad_Case_Of_Love_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Case of You",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/14_A_Case_of_You_Prince.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bad Case of Lovin' You (Doctor, Doctor)",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/15_Bad_Case_of_Lovin'_You_(Doctor,_Doctor)_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bad Case Of Loving You (Doctor, Doctor)",
+      "artist": "Robert Palmer",
+      "has_synced": true,
+      "path": "select/16_Bad_Case_Of_Loving_You_(Doctor,_Doctor)_Robert_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bad Case of Lovin’ You (Doctor, Doctor)",
+      "artist": "Robert Palmer",
+      "has_synced": true,
+      "path": "select/17_Bad_Case_of_Lovin’_You_(Doctor,_Doctor)_Robert_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "In Case We Die (Parts 1-4)",
+      "artist": "Architecture In Helsinki",
+      "has_synced": false,
+      "path": "select/18_In_Case_We_Die_(Parts_1-4)_Architecture_In_Helsinki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CASE 143",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/pl_01_CASE_143_Stray_Kids.txt"
+    }
+  ]
+}
